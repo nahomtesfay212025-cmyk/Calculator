@@ -1,2 +1,1 @@
-add dividion
-add sustraction
+All operatios are included.
